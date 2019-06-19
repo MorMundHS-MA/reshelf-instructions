@@ -2,7 +2,7 @@
 title: SQUAD - reshelf - recycle, reuse, reduce 
 description: 'The reshelf project. Part of SQUAD @ inno.space Mannheim'
 url: 'https://mormundhs-ma.github.io/reshelf-instructions/'
-baseurl: 'reshelf-instructions/'
+baseurl: '/reshelf-instructions'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
