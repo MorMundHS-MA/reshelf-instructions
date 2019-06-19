@@ -1,5 +1,5 @@
 # Site settings
-title: SQUAD - reshelf - recycle, reuse, reduce 
+title: RESHELF
 description: 'The reshelf project. Part of SQUAD @ inno.space Mannheim'
 url: 'https://mormundhs-ma.github.io/reshelf-instructions/'
 baseurl: '/reshelf-instructions'
@@ -7,12 +7,8 @@ baseurl: '/reshelf-instructions'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'reshelf'
+  email: info@reshelf.eu
 
 defaults:
   -
